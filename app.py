@@ -11,7 +11,7 @@ st.set_page_config(page_title="Student Performance EDA Dashboard", layout="wide"
 # -------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("../cleaned_student_data.csv")
+    df = pd.read_csv("cleaned_student_data.csv")
     return df
 
 df = load_data()
