@@ -71,10 +71,4 @@ Boxplots were used to identify extreme values in the dataset.
 - Seaborn
 - Streamlit
 
----
 
-## 🚀 How to Run the Project Locally
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/week2-eda-dashboard.git
